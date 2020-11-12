@@ -15,3 +15,21 @@ body {
     background-color: purple;
     border-radius: 50px;
 }
+
+.box {
+   background-color: white;
+    width: 300px;
+    border: 5% solid green;
+    padding: 30px 25px;
+    margin: auto;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 10%;
+}
+.button {
+    background-color: lightblue;
+}
+p{
+    text-align: center;
+    
+}
